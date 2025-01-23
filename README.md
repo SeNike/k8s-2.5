@@ -9,7 +9,7 @@
 
 ![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.5/2.5.1.png)
 ![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.5/2.5.2.png)
-![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.5/2.5.2.png)
+![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.5/2.5.3.png)
 ![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/2.5/2.5.4.png)
 ------
 ### Задание 2. Запустить две версии в разных неймспейсах
